@@ -16,8 +16,7 @@
     "publish:next": "npm publish --access public --tag next",
     "prerelease": "npm run build",
     "release": "release-it",
-    "test:e2e": "jest --config ./tests/jest-e2e.json --runInBand",
-    "test:e2e:dev": "jest --config ./tests/jest-e2e.json --runInBand --watch"
+    "test": "jest"
   },
   "devDependencies": {
     "@nestjs/cli": "^7.0.0",
