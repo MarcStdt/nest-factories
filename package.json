@@ -1,6 +1,6 @@
 {
   "name": "nest-factories",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Nest Factory provider",
   "author": "Marc Schottstädt",
   "private": false,
