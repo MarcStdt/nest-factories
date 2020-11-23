@@ -1,4 +1,4 @@
-![build test publish workflow](https://github.com/MarcStdt/nest-factories/workflows/Node.js%20CI/badge.svg)
+![build test publish workflow](https://github.com/MarcStdt/nest-factories/workflows/Nest%20Factories/badge.svg)
 
 # Nest Factories
 I'm a little busy polishing this package.
